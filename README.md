@@ -3,8 +3,8 @@
 
 
 * Marc
-  -Ian
+-Ian
 - Marc
 - Jennifer
-- Yassens
+- Yassen
 - Jan
